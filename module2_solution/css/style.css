@@ -1,0 +1,39 @@
+
+* {
+  box-sizing: border-box;
+   margin: 0;
+  padding: 0;
+}
+h1 {
+text-align: center;
+}
+#chicken{
+	background-color : #FF69B4;
+	text-align: right;
+	border: 1px solid black;
+}
+
+div div{
+background-color : #D3D3D3;
+}
+
+/* browser display */
+@media (min-width: 992px){
+.col-lg-3 {
+	border: 1px solid black;
+	float :left;
+	width : 30%;
+	margin-right: 10px;
+	margin-left: 10px;
+	overflow: visible;
+}
+
+}
+/* tablet view */
+@media	(min-width: 768px) and (max-width: 991px){
+
+}
+/*Mobile view*/
+@media (max-width: 767px ){
+
+}
