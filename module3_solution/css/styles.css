@@ -60,4 +60,12 @@ body {
 	text-align: center;
 }
 
+.container .col-md-12{
+    background-color: #7F7F7F;
+    margin-bottom: 5px;
+}
+.container .title {
+	font-weight: bold;
+	text-align: center;
+}
 
